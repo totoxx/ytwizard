@@ -1,0 +1,5 @@
+http://click.linksynergy.com/deeplink?id=<affiliate id>&mid=<merchant id>&murl=<urlencoded target url>&u1=<sub id>
+
+============================================
+
+http://click.linksynergy.com/deeplink?id=AAj*6g7i2Vs&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Frecnet-icnd2%2F
